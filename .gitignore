@@ -2,6 +2,9 @@
 # start by ignore everything, un-ignore specifics
 *
 
+#don't ignore certain pngs
+!decoder_tb_waveform.png
+
 # never ignore itself
 !.gitignore
 
